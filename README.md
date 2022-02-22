@@ -1,4 +1,5 @@
 # Notes_SQLite
-## Simple and convenient notebook for every day! 
-## Create, edit and delete your notes.
-###
+### Simple and convenient notebook for every day! Create, edit and delete your notes. 
+##
+##![add and delete](https://user-images.githubusercontent.com/86000667/155096365-a6931f8c-0a8c-49cf-85bd-5ab759dd5c05.gif)
+##
